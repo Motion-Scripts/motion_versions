@@ -1,6 +1,9 @@
 1.1.0
 
-- NEW UI | SMALLER AND MORE MODERN
+- NEW UI
+- SMALLER
+- MORE MODERN
 
 https://github.com/Motion-Scripts/motion_notify
+
 
