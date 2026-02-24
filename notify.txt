@@ -1,9 +1,8 @@
-1.1.0
+1.1.1
 
-- NEW UI
-- SMALLER
-- MORE MODERN
+- Config file added for default positions (Suggestion) 
 
 https://github.com/Motion-Scripts/motion_notify
+
 
 
