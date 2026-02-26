@@ -1,8 +1,9 @@
-1.1.1
+1.1.2
 
-- Config file added for default positions (Suggestion) 
+- Adjusted config position values to correct off-center alignment. Functionality was unaffected.
 
 https://github.com/Motion-Scripts/motion_notify
+
 
 
 
