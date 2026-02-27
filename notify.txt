@@ -1,6 +1,6 @@
-1.1.2
+1.1.3
 
-- Adjusted config position values to correct off-center alignment. Functionality was unaffected.
+- Fixed an issue where notifications were not displaying for some players.
 
 https://github.com/Motion-Scripts/motion_notify
 
