@@ -1,0 +1,8 @@
+1.0.4
+
+- Update for motion tp menu
+
+
+https://github.com/Motion-Scripts/motion_bridge
+
+

@@ -1,8 +1,0 @@
-1.0.3
-
-- Improve structure etc
-
-
-https://github.com/Motion-Scripts/motion_bridge
-
-
