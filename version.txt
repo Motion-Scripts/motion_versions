@@ -1,0 +1,8 @@
+1.0.4
+
+- UPDATE If not done will break bridge
+
+
+https://github.com/Motion-Scripts/motion_bridge
+
+
