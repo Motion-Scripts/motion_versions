@@ -1,9 +1,8 @@
-1.1.4
+1.1.5
 
-- Fixed an issue where notifications were not displaying for some players.
+- New Update & Rebrand Exports will need to be changed from motion to lime
 
-https://github.com/Motion-Scripts/motion_notify
-
+https://github.com/Lime-Studios/lime_notify
 
 
 
