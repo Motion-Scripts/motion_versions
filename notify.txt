@@ -1,6 +1,9 @@
 1.1.5
 
-- New Update & Rebrand Exports will need to be changed from motion to lime
+- Motion Notify support and updates depreciated.
+- Exports will automatically hook.
+- New UI Styles
+- Optimized when notify shows running at high ms.
 
 https://github.com/Lime-Studios/lime_notify
 
