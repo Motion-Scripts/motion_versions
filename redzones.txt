@@ -1,11 +1,9 @@
-1.5.0
+2.0.0
 
-- For compatibility and optimization reasons, we have updated Motion Redzones to use ox_lib instead of PolyZone.
-- PolyZone is no longer required.
-- Please ensure ox_lib is properly installed and updated to avoid any issues.
+- Lime Redzones out - Ingame Panel More Optimized Better UI
 
-https://github.com/Motion-Scripts/motion_redzones
 
+https://github.com/Lime-Studios/lime_redzones
 
 
 
