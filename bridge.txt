@@ -1,8 +1,7 @@
-1.0.4
+2.0.0
 
-- Update for motion tp menu
+- No longer needed Lime_Redzones out 10x better.
 
 
-https://github.com/Motion-Scripts/motion_bridge
-
+https://github.com/Lime-Studios/lime_redzones
 
