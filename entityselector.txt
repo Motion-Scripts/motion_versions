@@ -1,5 +1,7 @@
-1.0.0
+2.0.0
 
-- Initial Release
+- Lime Entity Selector OUT NOW!
+- More Optimized
+- Better UI
 
-https://github.com/Motion-Scripts/motion_entityselector
+https://github.com/Lime-Studios/lime_entityselector
